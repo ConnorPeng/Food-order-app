@@ -1,6 +1,6 @@
 A User Interface for food ordering
 
-<img src="/Food-order-app/src/assets/UI.png" />
+<img src="./src/assets/UI.png" />
 
 
 ## Available Scripts
